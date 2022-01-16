@@ -3,7 +3,7 @@
 A music player made in React
 
 
-<img width="800" alt="React Musci Player Screenshot" src="https://media.discordapp.net/attachments/762383336994766938/908141269052690482/Screenshot_186.png?width=1366&height=779"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple and optimized React  Music Player [( See Demo )](https://ammusicplayer.netlify.app/) . It includes: 
 
