@@ -3,7 +3,7 @@
 A music player made in React
 
 
-<img width="800" alt="IMG" src="./img.png"/>
+<img width="800" alt="IMG" src="./image.png"/>
 
 Simple and optimized React  Music Player [( See Demo )](https://ammusicplayer.netlify.app/) . It includes: 
 
